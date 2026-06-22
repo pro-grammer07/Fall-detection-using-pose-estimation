@@ -121,6 +121,16 @@ Fall / Non-Fall Prediction
 
 ---
 
+## Results
+
+The proposed system successfully learns human movement patterns from pose keypoints and distinguishes fall events from normal daily activities, demonstrating the effectiveness of pose-based representations for fall detection tasks.
+
+<img width="798" height="526" alt="image" src="https://github.com/user-attachments/assets/3a52888d-98cf-426a-bb91-fd04b41d01ab" />
+<img width="806" height="534" alt="image" src="https://github.com/user-attachments/assets/4f7b58db-97b2-40ca-b153-9bfc78d19bb8" />
+<img width="739" height="554" alt="image" src="https://github.com/user-attachments/assets/8aae2e83-06cc-412a-8e73-b152c7135d3b" />
+
+---
+
 ## Technologies Used
 
 ### Programming Language
@@ -213,17 +223,13 @@ Fall Detection using Pose Estimation/
 
 ---
 
-## Results
 
-The proposed system successfully learns human movement patterns from pose keypoints and distinguishes fall events from normal daily activities, demonstrating the effectiveness of pose-based representations for fall detection tasks.
-
----
 
 ## Author
 
 **Syeda Ayesha Wajahat**
 
-Computer Science Student | Artificial Intelligence & Machine Learning Enthusiast
+Computer Scienctist | Artificial Intelligence & Machine Learning Enthusiast
 
 Areas of Interest:
 
@@ -231,4 +237,4 @@ Areas of Interest:
 * Deep Learning
 * Computer Vision
 * Natural Language Processing
-* Human-Centered AI
+* Affective Computing
